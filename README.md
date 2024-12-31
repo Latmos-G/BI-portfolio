@@ -1,2 +1,2 @@
 # BI-portfolio
-Supervised machine learning algorithm
+Employ a data mining approach with predictive modelling to reveal the possible cause of customer churn in a bank industry 
